@@ -1,4 +1,4 @@
-# Mortality Pilot – Data Quality & Coverage Dashboard
+#  Data Quality & Coverage Dashboard
 
 ## Overview
 A production-ready Streamlit dashboard for monitoring mortality pilot data, coverage metrics, data quality issues, and audio transcription.
@@ -15,3 +15,4 @@ A production-ready Streamlit dashboard for monitoring mortality pilot data, cove
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
